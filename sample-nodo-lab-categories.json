@@ -1,0 +1,74 @@
+{
+  "categories": [
+    {
+      "id": "finance",
+      "name": "Finance",
+      "nameEs": "Finanzas",
+      "emoji": "💰",
+      "color": "#10b981"
+    },
+    {
+      "id": "technology",
+      "name": "Technology",
+      "nameEs": "Tecnología",
+      "emoji": "🚀",
+      "color": "#3b82f6"
+    },
+    {
+      "id": "health",
+      "name": "Health",
+      "nameEs": "Salud",
+      "emoji": "🏥",
+      "color": "#ef4444"
+    },
+    {
+      "id": "business",
+      "name": "Business",
+      "nameEs": "Negocios",
+      "emoji": "💼",
+      "color": "#f59e0b"
+    },
+    {
+      "id": "education",
+      "name": "Education",
+      "nameEs": "Educación",
+      "emoji": "📚",
+      "color": "#8b5cf6"
+    },
+    {
+      "id": "lifestyle",
+      "name": "Lifestyle",
+      "nameEs": "Estilo de Vida",
+      "emoji": "✨",
+      "color": "#ec4899"
+    },
+    {
+      "id": "travel",
+      "name": "Travel",
+      "nameEs": "Viajes",
+      "emoji": "✈️",
+      "color": "#06b6d4"
+    },
+    {
+      "id": "food",
+      "name": "Food",
+      "nameEs": "Comida",
+      "emoji": "🍽️",
+      "color": "#f97316"
+    },
+    {
+      "id": "sports",
+      "name": "Sports",
+      "nameEs": "Deportes",
+      "emoji": "⚽",
+      "color": "#14b8a6"
+    },
+    {
+      "id": "entertainment",
+      "name": "Entertainment",
+      "nameEs": "Entretenimiento",
+      "emoji": "🎬",
+      "color": "#a855f7"
+    }
+  ]
+}
