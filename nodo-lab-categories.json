@@ -8,6 +8,13 @@
       "color": "#10b981"
     },
     {
+      "id": "nodo",
+      "name": "Nodo Lab",
+      "nameEs": "Finanzas",
+      "emoji": "💰",
+      "color": "#10b981"
+    },
+    {
       "id": "technology",
       "name": "Technology",
       "nameEs": "Tecnología",
